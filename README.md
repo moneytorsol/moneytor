@@ -80,9 +80,9 @@ npm run dev
 ```
 ## 📊 Architecture
 - **Main page flow (/)**
-https://cdn.discordapp.com/attachments/1323702889012658278/1324094463638769715/image.png?ex=6776e690&is=67759510&hm=e00ccc905e11bf7db0345679a091b1f2b3b0bb6e5dfa18bfaa2b848d625407c3&
+![alt text](https://cdn.discordapp.com/attachments/1323702889012658278/1324094463638769715/image.png?ex=6776e690&is=67759510&hm=e00ccc905e11bf7db0345679a091b1f2b3b0bb6e5dfa18bfaa2b848d625407c3&)
 - **Moneytor page flow (/moneytor)**
-https://cdn.discordapp.com/attachments/1323702889012658278/1324096700536852550/image.png?ex=6776e8a5&is=67759725&hm=45e34a90cb349f565db845bd83bc76ce3e73e534cdb0642d10ef0460a3929b7e&
+![alt text](https://cdn.discordapp.com/attachments/1323702889012658278/1324096700536852550/image.png?ex=6776e8a5&is=67759725&hm=45e34a90cb349f565db845bd83bc76ce3e73e534cdb0642d10ef0460a3929b7e&)
 
 ## 🛡️ Security
 
